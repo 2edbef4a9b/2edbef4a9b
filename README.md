@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm 2edbef4a9b! 👋
 
-<!--
-**2edbef4a9b/2edbef4a9b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Top Languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=10&hide=css,html,perl,javascript&theme=default"
+    media="(prefers-color-scheme: light)" />
+  <source
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=10&hide=css,html,perl,javascript&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <img
+    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=10&hide=css,html,perl,javascript"
+    alt="2edbef4a9b's Top Langs" />
+</picture>
