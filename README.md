@@ -3,7 +3,7 @@
 <div align="left">
   <picture>
     <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=dracula&bg_color=0d1117&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -11,7 +11,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=dracula&bg_color=0d1117&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
       alt="2edbef4a9b's Top Languages"
       height="180"
     />
@@ -19,7 +19,7 @@
 
   <picture>
     <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=tokyonight"
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -27,7 +27,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=tokyonight"
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
       alt="2edbef4a9b's GitHub Stats"
       height="180"
     />
