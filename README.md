@@ -1,15 +1,35 @@
 # Hi there, I'm 2edbef4a9b! 👋
 
-<picture>
-  <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile&"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=default&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile&"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile&"
-    alt="2edbef4a9b's Top Languages" />
-</picture>
+<div align="left">
+  <picture>
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=default&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight&hide=CSS%2CHTML%2CPerl%2CJavaScript%2CJupyter%20Notebook%2CMakefile"
+      alt="2edbef4a9b's Top Languages"
+      height="180"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&show_icons=true&hide_border=true&theme=tokyonight"
+      alt="2edbef4a9b's GitHub Stats"
+      height="180"
+    />
+  </picture>
+</div>
