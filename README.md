@@ -1,5 +1,9 @@
 # Hi there, I'm 2edbef4a9b! 👋
 
+## About Me
+
+College student, love Fumo²s, dislike C.
+
 <div align="left">
   <picture>
     <source
