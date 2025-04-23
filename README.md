@@ -2,7 +2,7 @@
 
 ## About Me
 
-College student, love Fumo²s, dislike C.
+College student, love [Fumo²](https://fumo.systems)s, dislike C.
 
 <div align="left">
   <picture>
