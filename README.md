@@ -2,7 +2,7 @@
 
 ## About Me
 
-College student, love [Fumo²](https://fumo.systems)s, dislike C.
+College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 
 [![wakatime](https://wakatime.com/badge/user/2bffca04-818a-44eb-b573-0010b6161301.svg)](https://wakatime.com/@2bffca04-818a-44eb-b573-0010b6161301)
 
@@ -54,6 +54,8 @@ College student, love [Fumo²](https://fumo.systems)s, dislike C.
     alt="2edbef4a9b's WakaTime stats"
   />
 </picture>
+
+## 📊 Development Breakdown
 
 <!--START_SECTION:waka-->
 
