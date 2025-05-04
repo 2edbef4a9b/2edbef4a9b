@@ -54,4 +54,11 @@ College student, love [Fumo²](https://fumo.systems)s, dislike C.
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
