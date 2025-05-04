@@ -55,7 +55,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
   />
 </picture>
 
-## 📊 Development Breakdown
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
