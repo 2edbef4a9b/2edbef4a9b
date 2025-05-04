@@ -40,15 +40,18 @@ College student, love [Fumo²](https://fumo.systems)s, dislike C.
 
 <picture>
   <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&theme=dracula&bg_color=0d1117&hide_border=true"
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&theme=default&hide_border=true"
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=default&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&theme=dracula&bg_color=0d1117&hide_border=true"
+    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true"
     alt="2edbef4a9b's WakaTime stats"
   />
 </picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
