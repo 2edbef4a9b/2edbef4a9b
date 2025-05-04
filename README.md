@@ -60,9 +60,18 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 8 hrs 10 mins
 
-No activity tracked
+Rust         5 hrs 26 mins   ████████████████▓░░░░░░░░   66.69 %
+Markdown     1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Git          40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+TOML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Lua          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
