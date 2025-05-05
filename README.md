@@ -42,15 +42,15 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 
 <picture>
   <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&v2"
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=default&hide_border=true&v2"
+    srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=default&hide_border=true&langs_count=10&v2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&v2"
+    src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
     alt="2edbef4a9b's WakaTime stats"
   />
 </picture>
@@ -73,3 +73,5 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+I use [Arch]() BTW❤️
