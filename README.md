@@ -60,9 +60,9 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
   <picture>
     <img
       src="fumo.gif"
-      alt="Figure 02 Main Decoder"
+      alt="FumoFumo"
       height="216"
-      style="border-radius: 5px;"
+      style="border-radius:5px;"
     />
   </picture>
 </div>
