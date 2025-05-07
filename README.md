@@ -86,4 +86,6 @@ Assembly        37 mins         ▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-I use [Arch]() BTW❤️
+🤣👉 Debian
+
+I use [Arch](./arch.png) BTW❤️
