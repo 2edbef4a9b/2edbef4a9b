@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 42 mins
+Total Time: 18 hrs 12 mins
 
-Rust            7 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.23 %
-Markdown        6 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-Python          1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other           1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Text            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-SystemVerilog   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Assembly        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Git             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown       5 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Rust           4 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+Python         3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+HTML           1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Other          1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Text           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Git            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+CSS            23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
