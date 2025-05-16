@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 49 mins
+Total Time: 12 hrs 15 mins
 
-Markdown       4 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
-Python         3 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-HTML           1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-JavaScript     1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Other          1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-CSS            1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Text           35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-QML            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown       3 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+Python         2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+HTML           1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+JavaScript     1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Other          1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+CSS            1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Rust           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+QML            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
