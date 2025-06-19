@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 hrs 55 mins
+Total Time: 33 hrs 54 mins
 
-Python                             11 hrs 19 mins  ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Rust                               10 hrs 18 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Markdown                           5 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-C#                                 3 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-SystemVerilog                      2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Tcl                                1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-V                                  41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-RPMSpec                            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Python                             11 hrs 19 mins  ████████▒░░░░░░░░░░░░░░░░   33.13 %
+Rust                               6 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Markdown                           5 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+C#                                 2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+SystemVerilog                      2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Tcl                                1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+V                                  41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+RPMSpec                            38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
