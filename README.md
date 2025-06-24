@@ -72,15 +72,10 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 53 mins
+Total Time: 2 hrs 51 mins
 
-Markdown        3 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
-Python          3 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.66 %
-RPMSpec         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Batchfile       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-SystemVerilog   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Git             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   2 hrs 51 mins   ████████████████▓░░░░░░░░   66.02 %
+Other      1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 %
 ```
 
 <!--END_SECTION:waka-->
