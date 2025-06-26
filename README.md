@@ -72,10 +72,10 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 51 mins
+Total Time: 2 hrs 32 mins
 
-Markdown   2 hrs 51 mins   ████████████████▓░░░░░░░░   66.02 %
-Other      1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 %
+Markdown   2 hrs 32 mins   ████████████████░░░░░░░░░   63.38 %
+Other      1 hr 28 mins    █████████░░░░░░░░░░░░░░░░   36.62 %
 ```
 
 <!--END_SECTION:waka-->
