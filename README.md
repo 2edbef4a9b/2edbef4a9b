@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 21 mins
+Total Time: 24 hrs 49 mins
 
-SystemVerilog   7 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   36.66 %
-Markdown        3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Lua             1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Python          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-JSON            1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Assembly        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-C++             57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-TypeScript      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+C++             8 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.28 %
+SystemVerilog   7 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+Markdown        2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Lua             2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+JSON            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+C               56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Assembly        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
