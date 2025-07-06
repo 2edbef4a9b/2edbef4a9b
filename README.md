@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 49 mins
+Total Time: 23 hrs 32 mins
 
-C++             8 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.28 %
-SystemVerilog   7 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-Markdown        2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Lua             2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-JSON            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-C               56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Assembly        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-TypeScript      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+C++             14 hrs 37 mins  ███████████████▒░░░░░░░░░   61.14 %
+Markdown        2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Lua             2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+C               1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+JSON            1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+TypeScript      34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Other           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Git             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
