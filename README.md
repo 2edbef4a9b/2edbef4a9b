@@ -53,7 +53,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
     <img
       src="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
       alt="2edbef4a9b's WakaTime stats"
-      height="220"
+      height="240"
     />
   </picture>
 
