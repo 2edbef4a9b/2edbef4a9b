@@ -61,7 +61,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
     <img
       src="fumo.gif"
       alt="FumoFumo"
-      height="216"
+      height="240"
       style="border-radius:5px;"
     />
   </picture>
