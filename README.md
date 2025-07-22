@@ -19,7 +19,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
     <img
       src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=2edbef4a9b&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=dracula&exclude_repo=UCB-CS61A-Summer-2024&bg_color=0d1117&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
       alt="2edbef4a9b's Top Languages"
-      height="200"
+      height="220"
     />
   </picture>
 
@@ -35,7 +35,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
     <img
       src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=2edbef4a9b&count_private=true&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
       alt="2edbef4a9b's GitHub Stats"
-      height="200"
+      height="220"
     />
   </picture>
 </div>
@@ -53,7 +53,7 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
     <img
       src="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=2edbef4a9b&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
       alt="2edbef4a9b's WakaTime stats"
-      height="216"
+      height="240"
     />
   </picture>
 
