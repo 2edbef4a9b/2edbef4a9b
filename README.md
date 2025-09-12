@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 hrs 41 mins
+Total Time: 45 hrs 45 mins
 
-C#             31 hrs 14 mins  ███████████████████░░░░░░   76.12 %
-QML            2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JSON           2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Git            1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other          1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Markdown       44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-XML            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Git Config     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C#             36 hrs 56 mins  ███████████████████▓░░░░░   78.60 %
+QML            2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+JSON           2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Git            1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other          1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Markdown       42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+XML            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Git Config     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
