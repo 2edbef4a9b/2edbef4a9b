@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 45 hrs 6 mins
+Total Time: 40 hrs 20 mins
 
-C#             23 hrs 54 mins  ████████████▓░░░░░░░░░░░░   50.38 %
-JavaScript     4 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-QML            2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON           2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Vue.js         2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Other          2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Git            1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Markdown       1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+C#           20 hrs 52 mins  ████████████░░░░░░░░░░░░░   48.51 %
+JavaScript   4 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Other        2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON         2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Vue.js       2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Git          1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Bash         1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Markdown     1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
