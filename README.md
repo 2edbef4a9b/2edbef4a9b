@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 hrs 37 mins
+Total Time: 39 hrs 10 mins
 
-Markdown      14 hrs 40 mins  ███████████░░░░░░░░░░░░░░   44.14 %
-C++           11 hrs 59 mins  █████████░░░░░░░░░░░░░░░░   36.08 %
-C             4 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Python        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Other         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Objective-C   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-HTML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++           17 hrs 41 mins  ███████████░░░░░░░░░░░░░░   43.74 %
+Markdown      14 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   34.95 %
+C             5 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Other         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Objective-C   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+HTML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Git           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
