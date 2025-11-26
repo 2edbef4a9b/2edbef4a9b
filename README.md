@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 24 mins
+Total Time: 16 hrs 58 mins
 
-Markdown       12 hrs 15 mins  █████████████░░░░░░░░░░░░   52.34 %
-Python         6 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-JSON           1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Other          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Git            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-CSS            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Go             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-TypeScript     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python         6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.38 %
+Markdown       6 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.49 %
+Other          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+JSON           1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Git            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Go             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+TOML           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
