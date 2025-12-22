@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 hrs 42 mins
+Total Time: 32 hrs
 
-Rust         15 hrs 10 mins  ████████████▓░░░░░░░░░░░░   51.06 %
-Markdown     10 hrs          ████████▒░░░░░░░░░░░░░░░░   33.68 %
-Python       3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-Git          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-TOML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Rust         15 hrs 58 mins  ████████████▒░░░░░░░░░░░░   49.91 %
+Markdown     12 hrs 35 mins  ██████████░░░░░░░░░░░░░░░   39.36 %
+Python       1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Git          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+TOML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Docker       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Assembly     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
