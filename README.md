@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 29 mins
+Total Time: 32 hrs 53 mins
 
-Rust           14 hrs 22 mins  ███████████▒░░░░░░░░░░░░░   45.66 %
-Markdown       12 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   39.23 %
-Python         2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-TOML           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Git            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Docker         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Batchfile      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-YAML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Rust           14 hrs 17 mins  ███████████░░░░░░░░░░░░░░   43.34 %
+Markdown       9 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Python         6 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+TOML           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Git            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Batchfile      36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Docker         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
