@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 hrs 55 mins
+Total Time: 24 hrs 50 mins
 
-Typst          16 hrs 9 mins   █████████████░░░░░░░░░░░░   52.22 %
-Python         9 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-Markdown       1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Git            1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JSON           37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-jsonc          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Rust           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-YAML           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Typst          16 hrs 9 mins   ████████████████▒░░░░░░░░   65.00 %
+Python         4 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Markdown       1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+JSON           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Git            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+jsonc          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Rust           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+YAML           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
