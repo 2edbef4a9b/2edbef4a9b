@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 17 mins
+Total Time: 12 hrs 25 mins
 
-Typst          10 hrs 54 mins  ████████████████▓░░░░░░░░   66.01 %
-kdl            1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Markdown       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Prolog         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Assembly       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-JavaScript     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-jsonc          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-git ignore     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Typst          8 hrs 3 mins    ████████████████░░░░░░░░░   63.64 %
+kdl            1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Prolog         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Assembly       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+jsonc          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Other          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+git ignore     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
