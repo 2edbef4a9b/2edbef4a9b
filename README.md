@@ -72,16 +72,10 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 27 mins
+Total Time: 6 mins
 
-Assembly       30 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-kdl            18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Other          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-git ignore     13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-jsonc          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Bash           6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-shell script   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+shell script   6 mins          ███████████████████████▓░   95.00 %
+kdl            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
