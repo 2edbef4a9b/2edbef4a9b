@@ -72,10 +72,9 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 0 secs
 
-shell script   6 mins          ███████████████████████▓░   95.00 %
-kdl            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
