@@ -72,9 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 31 hrs 48 mins
 
-No activity tracked
+TypeScript     12 hrs 31 mins  ██████████░░░░░░░░░░░░░░░   39.37 %
+Python         7 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Markdown       3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+JSON           2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Typst          1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Git            59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Objective-C    57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+YAML           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
