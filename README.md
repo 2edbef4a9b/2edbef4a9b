@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 23 mins
+Total Time: 34 hrs 50 mins
 
-Markdown       22 hrs 42 mins        ████████████████▒░░░░░░░░   65.91 %
-Other          3 hrs 3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-TeX            2 hrs 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Git            1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Python         1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-BibTeX         1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Text           41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON           33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown       25 hrs 40 mins        █████████████████░░░░░░░░   67.76 %
+Other          3 hrs 3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+TeX            2 hrs 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Git            2 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Python         1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+BibTeX         1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Text           41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JSON           33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
