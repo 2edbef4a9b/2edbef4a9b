@@ -72,16 +72,13 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 21 mins
+Total Time: 5 hrs 15 mins
 
-Markdown     10 hrs 58 mins        ███████████████████▓░░░░░   78.90 %
-SSH Config   51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Python       47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Other        33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Git          16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-TOML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Text         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Bash         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown     4 hrs 7 mins          ███████████████████░░░░░░   75.96 %
+SSH Config   51 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Text         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Git          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
