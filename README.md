@@ -72,16 +72,16 @@ College student, love [Fumo²ᗜˬᗜ](https://fumo.systems)s, dislike C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 8 mins
+Total Time: 29 hrs 6 mins
 
-Markdown     15 hrs 49 mins        ████████████░░░░░░░░░░░░░   47.46 %
-Python       7 hrs 3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Other        5 hrs 11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-JSON         1 hr 47 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Go           1 hr 19 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-CSV          47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Text         45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Typst        11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown     15 hrs 49 mins        ███████████▓░░░░░░░░░░░░░   46.79 %
+Python       6 hrs 9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Other        4 hrs 41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+JSON         3 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Go           1 hr 50 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+CSV          47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Text         45 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Typst        11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
